@@ -1,0 +1,1024 @@
+﻿Alana;Adamska;43;K;Wozniki;slaskie
+Alina;Adamska;64;K;Kostrzyn;wielkopolskie
+Blanka;Adamska;23;K;Chorzow;slaskie
+Izyda;Adamska;65;K;Tuliszkow;wielkopolskie
+Anastazy;Adamski;84;M;Nowy Targ;malopolskie
+Eugeniusz;Adamski;76;M;Zdzieszowice;opolskie
+Hubert;Adamski;89;M;Oborniki Slaskie;dolnoslaskie
+Jozef;Adamski;93;M;Poniatowa;lubelskie
+Juliusz;Adamski;21;M;Pruszkow;mazowieckie
+Kajetan;Adamski;67;M;Nowa Sol;lubuskie
+Konrad;Adamski;68;M;Leczyca;lodzkie
+Ksawery;Adamski;84;M;Walbrzych;dolnoslaskie
+Angelika;Andrzejewska;22;K;Katowice;slaskie
+Aniela;Andrzejewska;97;K;Wagrowiec;wielkopolskie
+Anna;Andrzejewska;59;K;Staszow;swietokrzyskie
+Danuta;Andrzejewska;15;K;Zukowo;pomorskie
+Honorata;Andrzejewska;58;K;Bodzentyn;swietokrzyskie
+Jadwiga;Andrzejewska;59;K;Zaklikow;podkarpackie
+Jagoda;Andrzejewska;96;K;Poznan;wielkopolskie
+Julia;Andrzejewska;43;K;Sokolka;podlaskie
+Lara;Andrzejewska;30;K;Osiek;swietokrzyskie
+Wiktoria;Andrzejewska;59;K;Rawicz;wielkopolskie
+Daniel;Andrzejewski;60;M;Niepolomice;malopolskie
+Edward;Andrzejewski;17;M;Rawa Mazowiecka;lodzkie
+Gniewomir;Andrzejewski;63;M;Laszczow;lubelskie
+Karol;Andrzejewski;21;M;Babimost;lubuskie
+Konstanty;Andrzejewski;58;M;Piaseczno;mazowieckie
+Krystian;Andrzejewski;80;M;Zielona Gora;lubuskie
+Marek;Andrzejewski;69;M;Leknica;lubuskie
+Amelia;Baran;19;K;Chojnice;pomorskie
+Borys;Baran;91;M;Zagan;lubuskie
+Denis;Baran;37;M;Gora;dolnoslaskie
+Judyta;Baran;28;K;Wladyslawowo;pomorskie
+Kamil;Baran;39;M;Blonie;mazowieckie
+Marcel;Baran;41;M;Otmuchow;opolskie
+Martin;Baran;60;M;Stoczek Lukowski;lubelskie
+Milan;Baran;61;M;Nieszawa;kujawsko-pomorskie
+Milan;Baran;93;M;Zarow;dolnoslaskie
+Stanislawa;Baran;27;K;Srem;wielkopolskie
+Urszula;Baran;70;K;Dolsk;wielkopolskie
+Wanda;Baran;29;K;Ledziny;slaskie
+Andzelika;Baranowska;40;K;Swinoujscie;zachodniopomorskie
+Aneta;Baranowska;28;K;Orzysz;warminsko-mazurskie
+Aniela;Baranowska;32;K;Ostrorog;wielkopolskie
+Asia;Baranowska;42;K;Czerniejewo;wielkopolskie
+Bernadetta;Baranowska;90;K;Sedziszow;swietokrzyskie
+Adam;Baranowski;32;M;Swidnik;lubelskie
+Alfred;Baranowski;37;M;Swieradow-Zdroj;dolnoslaskie
+Ernest;Baranowski;68;M;Janow Lubelski;lubelskie
+Gustaw;Baranowski;80;M;Plonsk;mazowieckie
+Maciej;Baranowski;93;M;Chelmek;malopolskie
+Adela;Bak;70;K;Ruda Slaska;slaskie
+Aleksander;Bak;49;M;Kolonowskie;opolskie
+Bogda;Bak;19;K;Karlino;zachodniopomorskie
+Daniel;Bak;61;M;Koronowo;kujawsko-pomorskie
+Faustyna;Bak;82;K;Pniewy;wielkopolskie
+Franciszka;Bak;71;K;Nowe Miasto Lubawskie;warminsko-mazurskie
+Julianna;Bak;89;K;Szamotuly;wielkopolskie
+Kaja;Bak;23;K;Skoczow;slaskie
+Leonardo;Bak;43;M;Otyn;lubuskie
+Monika;Bak;85;K;Sandomierz;swietokrzyskie
+Rafal;Bak;78;M;Ryki;lubelskie
+Adrian;Blaszczyk;64;M;Izbica Kujawska;kujawsko-pomorskie
+Albert;Blaszczyk;16;M;Sieradz;lodzkie
+Asia;Blaszczyk;38;K;Pyzdry;wielkopolskie
+Czeslawa;Blaszczyk;79;K;Rymanow;podkarpackie
+Diego;Blaszczyk;72;M;Nowe Miasto nad Pilica;mazowieckie
+Jedrzej;Blaszczyk;52;M;Gubin;lubuskie
+Karolina;Blaszczyk;67;K;Braniewo;warminsko-mazurskie
+Klara;Blaszczyk;97;K;Wegorzyno;zachodniopomorskie
+Kornelia;Blaszczyk;38;K;Bialogard;zachodniopomorskie
+Malgorzata;Blaszczyk;75;K;Jastrowie;wielkopolskie
+Marcelina;Blaszczyk;96;K;Zerkow;wielkopolskie
+Natan;Blaszczyk;54;M;Sokolow Podlaski;mazowieckie
+Norbert;Blaszczyk;51;M;Naklo nad Notecia;kujawsko-pomorskie
+Olimpia;Blaszczyk;38;K;Mosina;wielkopolskie
+Marcela;Borkowska;53;K;Hajnowka;podlaskie
+Marysia;Borkowska;25;K;Witkowo;wielkopolskie
+Edward;Borkowski;27;M;Wlen;dolnoslaskie
+Filip;Borkowski;59;M;Ilza;mazowieckie
+Gabriel;Borkowski;36;M;Mordy;mazowieckie
+Ignacy;Borkowski;89;M;Jozefow;mazowieckie
+Kordian;Borkowski;92;M;Rozan;mazowieckie
+Martin;Borkowski;96;M;Szczucin;malopolskie
+Mateusz;Borkowski;22;M;Chorzele;mazowieckie
+Maurycy;Borkowski;98;M;Miedzylesie;dolnoslaskie
+Asia;Brzezinska;20;K;Pruszcz Gdanski;pomorskie
+Asia;Brzezinska;63;K;Dobra;wielkopolskie
+Bernadetta;Brzezinska;35;K;Ostrzeszow;wielkopolskie
+Bernadetta;Brzezinska;89;K;Michalowo;podlaskie
+Blanka;Brzezinska;72;K;Suchan;zachodniopomorskie
+Jadwiga;Brzezinska;66;K;Rogozno;wielkopolskie
+Jola;Brzezinska;44;K;Bielsko-Biala;slaskie
+Liliana;Brzezinska;73;K;Tykocin;podlaskie
+Marlena;Brzezinska;90;K;Bytow;pomorskie
+Nikola;Brzezinska;35;K;Puszczykowo;wielkopolskie
+Zofia;Brzezinska;71;K;Rudnik nad Sanem;podkarpackie
+Bartosz;Brzezinski;60;M;Tluszcz;mazowieckie
+Bartosz;Brzezinski;60;M;Trzebnica;dolnoslaskie
+Korneliusz;Brzezinski;41;M;Zgierz;lodzkie
+Mikolaj;Brzezinski;18;M;Wieliczka;malopolskie
+Aneta;Chmielewska;94;K;Wejherowo;pomorskie
+Boguslawa;Chmielewska;39;K;Wolsztyn;wielkopolskie
+Jagoda;Chmielewska;72;K;Rumia;pomorskie
+Miroslawa;Chmielewska;66;K;Leba;pomorskie
+Zuza;Chmielewska;92;K;Mielec;podkarpackie
+Alojzy;Chmielewski;40;M;Gorzno;kujawsko-pomorskie
+Eugeniusz;Chmielewski;45;M;Tarnow;malopolskie
+Mateusz;Chmielewski;77;M;Zelow;lodzkie
+Remigiusz;Chmielewski;67;M;Leczna;lubelskie
+Remigiusz;Chmielewski;88;M;Zwierzyniec;lubelskie
+Ada;Cieslak;21;K;Choroszcz;podlaskie
+Grzegorz;Cieslak;37;M;Kluczbork;opolskie
+Irena;Cieslak;42;K;Knurow;slaskie
+Kryspin;Cieslak;31;M;Mogielnica;mazowieckie
+Milena;Cieslak;54;K;Toszek;slaskie
+Nikola;Cieslak;57;K;Pelczyce;zachodniopomorskie
+Nina;Cieslak;74;K;Ustrzyki Dolne;podkarpackie
+Oktawia;Cieslak;92;K;Zarki;slaskie
+Andzelika;Czarnecka;91;K;Jutrosin;wielkopolskie
+Bogumila;Czarnecka;94;K;Orzesze;slaskie
+Jowita;Czarnecka;81;K;Ploty;zachodniopomorskie
+Klara;Czarnecka;91;K;Sedziszow Malopolski;podkarpackie
+Lara;Czarnecka;69;K;Bierun;slaskie
+Magdalena;Czarnecka;17;K;Pruchnik;podkarpackie
+Roksana;Czarnecka;52;K;Darlowo;zachodniopomorskie
+Roza;Czarnecka;20;K;Augustow;podlaskie
+Bartosz;Czarnecki;32;M;Cybinka;lubuskie
+Eryk;Czarnecki;55;M;Nasielsk;mazowieckie
+Krzysztof;Czarnecki;47;M;Biezun;mazowieckie
+Krzysztof;Czarnecki;95;M;Wegliniec;dolnoslaskie
+Leszek;Czarnecki;47;M;Ozarow Mazowiecki;mazowieckie
+Mateusz;Czarnecki;90;M;Miechow;malopolskie
+Oskar;Czarnecki;46;M;Kock;lubelskie
+Agnieszka;Czerwinska;50;K;Wysokie Mazowieckie;podlaskie
+Florencja;Czerwinska;73;K;Kozieglowy;slaskie
+Klementyna;Czerwinska;98;K;Ksiaz Wielkopolski;wielkopolskie
+Lila;Czerwinska;28;K;Skoczow;slaskie
+Oliwia;Czerwinska;95;K;Maszewo;zachodniopomorskie
+Adrian;Czerwinski;53;M;Lubycza Krolewska;lubelskie
+Aleks;Czerwinski;98;M;Znin;kujawsko-pomorskie
+Borys;Czerwinski;53;M;Radzyn Chelminski;kujawsko-pomorskie
+Borys;Czerwinski;54;M;Radzyn Podlaski;lubelskie
+Cezary;Czerwinski;41;M;Tarczyn;mazowieckie
+Czeslaw;Czerwinski;28;M;Mlawa;mazowieckie
+Janusz;Czerwinski;31;M;Swidnica;dolnoslaskie
+Krzysztof;Czerwinski;78;M;Zgierz;lodzkie
+Robert;Czerwinski;98;M;Glogow Malopolski;podkarpackie
+Ryszard;Czerwinski;31;M;Belzyce;lubelskie
+Andzelika;Dabrowska;92;K;Wagrowiec;wielkopolskie
+Bernadetta;Dabrowska;36;K;Pyrzyce;zachodniopomorskie
+Gabriela;Dabrowska;33;K;Ostrowiec Swietokrzyski;swietokrzyskie
+Jola;Dabrowska;77;K;Nowogrod;podlaskie
+Julianna;Dabrowska;25;K;Golina;wielkopolskie
+Maja;Dabrowska;31;K;Lidzbark;warminsko-mazurskie
+Dorian;Dabrowski;68;M;Strzelin;dolnoslaskie
+Hubert;Dabrowski;33;M;Wojcieszow;dolnoslaskie
+Jozef;Dabrowski;17;M;Olszyna;dolnoslaskie
+Oskar;Dabrowski;17;M;Glucholazy;opolskie
+Radoslaw;Dabrowski;76;M;Nowogrodziec;dolnoslaskie
+Alexander;Duda;51;M;Gryfow Slaski;dolnoslaskie
+Anatol;Duda;79;M;Makow Mazowiecki;mazowieckie
+Aniela;Duda;41;K;Czempin;wielkopolskie
+Cyprian;Duda;64;M;Zamosc;lubelskie
+Dobromil;Duda;37;M;Lipsko;mazowieckie
+Dorian;Duda;31;M;Ostroleka;mazowieckie
+Edyta;Duda;37;K;Slupca;wielkopolskie
+Joanna;Duda;31;K;Konin;wielkopolskie
+Julian;Duda;41;M;Mrozy;mazowieckie
+Krzysztof;Duda;20;M;Legionowo;mazowieckie
+Marek;Duda;26;M;Bardo;dolnoslaskie
+Wioletta;Duda;20;K;Sztum;pomorskie
+Adela;Gajewska;92;K;Kalety;slaskie
+Amalia;Gajewska;64;K;Tuczno;zachodniopomorskie
+Ilona;Gajewska;74;K;Suchowola;podlaskie
+Jowita;Gajewska;41;K;Lubawa;warminsko-mazurskie
+Karolina;Gajewska;55;K;Hel;pomorskie
+Matylda;Gajewska;32;K;Bedzin;slaskie
+Miroslawa;Gajewska;90;K;Krynica Morska;pomorskie
+Pamela;Gajewska;82;K;Suraz;podlaskie
+Zaneta;Gajewska;59;K;Steszew;wielkopolskie
+Alan;Gajewski;40;M;Lubartow;lubelskie
+Alojzy;Gajewski;46;M;Radomsko;lodzkie
+Bartosz;Gajewski;33;M;Limanowa;malopolskie
+Konstanty;Gajewski;68;M;Rozan;mazowieckie
+Amalia;Glowacka;70;K;Jarocin;wielkopolskie
+Anna;Glowacka;40;K;Czeladz;slaskie
+Gabriela;Glowacka;56;K;Pelplin;pomorskie
+Judyta;Glowacka;49;K;Tolkmicko;warminsko-mazurskie
+Marysia;Glowacka;44;K;Murowana Goslina;wielkopolskie
+Oktawia;Glowacka;73;K;Suchedniow;swietokrzyskie
+Stefania;Glowacka;91;K;Polaniec;swietokrzyskie
+Urszula;Glowacka;48;K;Kolno;podlaskie
+Weronika;Glowacka;78;K;Pleszew;wielkopolskie
+Zofia;Glowacka;86;K;Jedrzejow;swietokrzyskie
+Allan;Glowacki;51;M;Tomaszow Mazowiecki;lodzkie
+Filip;Glowacki;91;M;Koszyce;malopolskie
+Jerzy;Glowacki;99;M;Glogowek;opolskie
+Marek;Glowacki;45;M;Lublin;lubelskie
+Roman;Glowacki;60;M;Boguchwala;podkarpackie
+Beata;Gorecka;23;K;Milomlyn;warminsko-mazurskie
+Edyta;Gorecka;47;K;Kolbuszowa;podkarpackie
+Ewelina;Gorecka;40;K;Klodawa;wielkopolskie
+Florencja;Gorecka;98;K;Szczyrk;slaskie
+Kaja;Gorecka;90;K;Obrzycko;wielkopolskie
+Krystyna;Gorecka;75;K;Nowogard;zachodniopomorskie
+Maria;Gorecka;65;K;Resko;zachodniopomorskie
+Wanda;Gorecka;50;K;Gryfino;zachodniopomorskie
+Antoni;Gorecki;99;M;Szczytna;dolnoslaskie
+Bronislaw;Gorecki;95;M;Chelmza;kujawsko-pomorskie
+Diego;Gorecki;34;M;Swiebodzice;dolnoslaskie
+Dominik;Gorecki;78;M;Uniejow;lodzkie
+Dorian;Gorecki;87;M;Nysa;opolskie
+Eustachy;Gorecki;36;M;Slubice;lubuskie
+Filip;Gorecki;90;M;Jozefow nad Wisla;lubelskie
+Mikolaj;Gorecki;40;M;Wolczyn;opolskie
+Aleksandra;Gorska;93;K;Szczecin;zachodniopomorskie
+Amalia;Gorska;59;K;Lapy;podlaskie
+Ilona;Gorska;71;K;Tychy;slaskie
+Jola;Gorska;63;K;Strumien;slaskie
+Julita;Gorska;79;K;Szepietowo;podlaskie
+Marcela;Gorska;67;K;Turek;wielkopolskie
+Stefania;Gorska;55;K;Pasym;warminsko-mazurskie
+Wioletta;Gorska;94;K;Krzepice;slaskie
+Daniel;Gorski;74;M;Drobin;mazowieckie
+Janusz;Gorski;69;M;Twardogora;dolnoslaskie
+Kewin;Gorski;61;M;Zakroczym;mazowieckie
+Milosz;Gorski;77;M;Dukla;podkarpackie
+Pawel;Gorski;39;M;Rabka-Zdroj;malopolskie
+Aneta;Jakubowska;62;K;Jastrowie;wielkopolskie
+Bogna;Jakubowska;35;K;Kleczew;wielkopolskie
+Dagmara;Jakubowska;92;K;Sepopol;warminsko-mazurskie
+Dorota;Jakubowska;83;K;Piekary Slaskie;slaskie
+Ilona;Jakubowska;57;K;Staporkow;swietokrzyskie
+Kacper;Jakubowski;82;M;Bukowno;malopolskie
+Kazimierz;Jakubowski;36;M;Gozdnica;lubuskie
+Korneliusz;Jakubowski;33;M;Biala;opolskie
+Ksawery;Jakubowski;44;M;Ozimek;opolskie
+Pawel;Jakubowski;35;M;Biala Podlaska;lubelskie
+Jola;Jankowska;51;K;Radzionkow;slaskie
+Kornelia;Jankowska;87;K;Elk;warminsko-mazurskie
+Artur;Jankowski;43;M;Mszczonow;mazowieckie
+Dorian;Jankowski;31;M;Ciezkowice;malopolskie
+Gabriel;Jankowski;24;M;Walbrzych;dolnoslaskie
+Julian;Jankowski;27;M;Kedzierzyn-Kozle;opolskie
+Kacper;Jankowski;69;M;Brodnica;kujawsko-pomorskie
+Kornel;Jankowski;33;M;Pulawy;lubelskie
+Kryspin;Jankowski;40;M;Oswiecim;malopolskie
+Elena;Jasinska;46;K;Ozarow;swietokrzyskie
+Justyna;Jasinska;50;K;Mysliborz;zachodniopomorskie
+Bartlomiej;Jasinski;59;M;Trzebinia;malopolskie
+Dorian;Jasinski;53;M;Torzym;lubuskie
+Ernest;Jasinski;95;M;Zelechow;mazowieckie
+Joachim;Jasinski;20;M;Gniewkowo;kujawsko-pomorskie
+Miroslaw;Jasinski;93;M;Wasosz;dolnoslaskie
+Bianka;Jaworska;75;K;Kozmin Wielkopolski;wielkopolskie
+Florencja;Jaworska;38;K;Ostrzeszow;wielkopolskie
+Lila;Jaworska;45;K;Wronki;wielkopolskie
+Zofia;Jaworska;97;K;Prabuty;pomorskie
+Eustachy;Jaworski;60;M;Korfantow;opolskie
+Eustachy;Jaworski;67;M;Pilawa;mazowieckie
+Franciszek;Jaworski;57;M;Libiaz;malopolskie
+Gracjan;Jaworski;64;M;Piensk;dolnoslaskie
+Jacek;Jaworski;63;M;Boleslawiec;dolnoslaskie
+Mikolaj;Jaworski;85;M;Byczyna;opolskie
+Aleksandra;Kaczmarczyk;18;K;Wloszczowa;swietokrzyskie
+Amanda;Kaczmarczyk;30;K;Ketrzyn;warminsko-mazurskie
+Anastazja;Kaczmarczyk;69;K;Koscierzyna;pomorskie
+Aureliusz;Kaczmarczyk;86;M;Warka;mazowieckie
+Bianka;Kaczmarczyk;53;K;Dabie;wielkopolskie
+Dawid;Kaczmarczyk;30;M;Belchatow;lodzkie
+Kinga;Kaczmarczyk;93;K;Mielno;zachodniopomorskie
+Lila;Kaczmarczyk;74;K;Rychwal;wielkopolskie
+Maciej;Kaczmarczyk;52;M;Lubsko;lubuskie
+Malgorzata;Kaczmarczyk;21;K;Pasym;warminsko-mazurskie
+Marcel;Kaczmarczyk;88;M;Golub-Dobrzyn;kujawsko-pomorskie
+Olimpia;Kaczmarczyk;79;K;Nowy Dwor Gdanski;pomorskie
+Roksana;Kaczmarczyk;29;K;Kepno;wielkopolskie
+Zaneta;Kaczmarczyk;93;K;Krzanowice;slaskie
+Adrianna;Kalinowska;57;K;Nidzica;warminsko-mazurskie
+Halina;Kalinowska;29;K;Goniadz;podlaskie
+Alex;Kalinowski;35;M;Slomniki;malopolskie
+Andrzej;Kalinowski;69;M;Strzelno;kujawsko-pomorskie
+Bogumil;Kalinowski;92;M;Szczebrzeszyn;lubelskie
+Jedrzej;Kalinowski;75;M;Zdunska Wola;lodzkie
+Kajetan;Kalinowski;22;M;Przasnysz;mazowieckie
+Lucjan;Kalinowski;88;M;Frampol;lubelskie
+Marian;Kalinowski;36;M;Ostrow Mazowiecka;mazowieckie
+Martin;Kalinowski;25;M;Katy Wroclawskie;dolnoslaskie
+Natan;Kalinowski;73;M;Szadek;lodzkie
+Przemyslaw;Kalinowski;90;M;Zabno;malopolskie
+Alicja;Kaminska;69;K;Pilzno;podkarpackie
+Amelia;Kaminska;51;K;Daleszyce;swietokrzyskie
+Bogna;Kaminska;66;K;Koszalin;zachodniopomorskie
+Ida;Kaminska;26;K;Miroslawiec;zachodniopomorskie
+Stefania;Kaminska;77;K;Ulanow;podkarpackie
+Albert;Kaminski;73;M;Lomianki;mazowieckie
+Andrzej;Kaminski;36;M;Swiecie;kujawsko-pomorskie
+Dobromil;Kaminski;65;M;Zator;malopolskie
+Ireneusz;Kaminski;18;M;Andrychow;malopolskie
+Kacper;Kaminski;79;M;Dynow;podkarpackie
+Klaudiusz;Kaminski;70;M;Brok;mazowieckie
+Mateusz;Kaminski;71;M;Kowalewo Pomorskie;kujawsko-pomorskie
+Piotr;Kaminski;31;M;Kety;malopolskie
+Alisa;Kazmierczak;20;K;Skalbmierz;swietokrzyskie
+Artur;Kazmierczak;66;M;Dobrodzien;opolskie
+Aureliusz;Kazmierczak;58;M;Debica;podkarpackie
+Dominik;Kazmierczak;76;M;Sulejow;lodzkie
+Elwira;Kazmierczak;50;K;Cmielow;swietokrzyskie
+Emil;Kazmierczak;50;M;Warka;mazowieckie
+Irena;Kazmierczak;27;K;Przemysl;podkarpackie
+Jagoda;Kazmierczak;89;K;Frombork;warminsko-mazurskie
+Julian;Kazmierczak;46;M;Myszyniec;mazowieckie
+Natan;Kazmierczak;33;M;Gostynin;mazowieckie
+Alexander;Kolodziej;19;M;Annopol;lubelskie
+Dawid;Kolodziej;88;M;Jozefow;lubelskie
+Eustachy;Kolodziej;39;M;Luban;dolnoslaskie
+Henryk;Kolodziej;84;M;Bychawa;lubelskie
+Kaja;Kolodziej;48;K;Czluchow;pomorskie
+Kryspin;Kolodziej;90;M;Garwolin;mazowieckie
+Maksymilian;Kolodziej;42;M;Chelm;lubelskie
+Michal;Kolodziej;45;M;Radom;mazowieckie
+Natan;Kolodziej;36;M;Wolborz;lodzkie
+Natan;Kolodziej;85;M;Marki;mazowieckie
+Pamela;Kolodziej;94;K;Kalisz Pomorski;zachodniopomorskie
+Paula;Kolodziej;49;K;Gryfice;zachodniopomorskie
+Czeslawa;Kowalczyk;84;K;Suwalki;podlaskie
+Dominik;Kowalczyk;96;M;Kaluszyn;mazowieckie
+Dorota;Kowalczyk;22;K;Wilamowice;slaskie
+Edyta;Kowalczyk;35;K;Morag;warminsko-mazurskie
+Julian;Kowalczyk;90;M;Zagan;lubuskie
+Kaja;Kowalczyk;84;K;Margonin;wielkopolskie
+Magda;Kowalczyk;91;K;Odolanow;wielkopolskie
+Martin;Kowalczyk;24;M;Opole;opolskie
+Milosz;Kowalczyk;56;M;Hrubieszow;lubelskie
+Sylwia;Kowalczyk;92;K;Gdansk;pomorskie
+Amelia;Kowalska;70;K;Tychowo;zachodniopomorskie
+Edyta;Kowalska;34;K;Slawno;zachodniopomorskie
+Helena;Kowalska;96;K;Gliwice;slaskie
+Klementyna;Kowalska;71;K;Drawno;zachodniopomorskie
+Lidia;Kowalska;22;K;Lagow;swietokrzyskie
+Magda;Kowalska;82;K;Malogoszcz;swietokrzyskie
+Wiktoria;Kowalska;70;K;Pila;wielkopolskie
+Antoni;Kowalski;82;M;Krasnystaw;lubelskie
+Damian;Kowalski;62;M;Dobiegniew;lubuskie
+Hubert;Kowalski;47;M;Terespol;lubelskie
+Jerzy;Kowalski;63;M;Tuchow;malopolskie
+Marcel;Kowalski;18;M;Szlichtyngowa;lubuskie
+Martin;Kowalski;72;M;Zbaszynek;lubuskie
+Michal;Kowalski;60;M;Piastow;mazowieckie
+Olgierd;Kowalski;61;M;Piechowice;dolnoslaskie
+Oskar;Kowalski;37;M;Bialobrzegi;mazowieckie
+Patryk;Kowalski;68;M;Nowe;kujawsko-pomorskie
+Dagmara;Kozlowska;16;K;Olsztynek;warminsko-mazurskie
+Daniela;Kozlowska;53;K;Kolobrzeg;zachodniopomorskie
+Emilia;Kozlowska;34;K;Kisielice;warminsko-mazurskie
+Joanna;Kozlowska;25;K;Przedecz;wielkopolskie
+Lidia;Kozlowska;45;K;Bierun;slaskie
+Ola;Kozlowska;29;K;Osieczna;wielkopolskie
+Paula;Kozlowska;39;K;Swietochlowice;slaskie
+Albert;Kozlowski;21;M;Szubin;kujawsko-pomorskie
+Blazej;Kozlowski;75;M;Sulechow;lubuskie
+Cezary;Kozlowski;80;M;Krapkowice;opolskie
+Ignacy;Kozlowski;89;M;Bytom Odrzanski;lubuskie
+Ireneusz;Kozlowski;23;M;Kazimierz Dolny;lubelskie
+Kazimierz;Kozlowski;99;M;Olkusz;malopolskie
+Kryspin;Kozlowski;30;M;Gorlice;malopolskie
+Oktawian;Kozlowski;45;M;Ozorkow;lodzkie
+Aureliusz;Krajewska;36;M;Biala Rawska;lodzkie
+Florencja;Krajewska;19;K;Siewierz;slaskie
+Kamila;Krajewska;54;K;Staszow;swietokrzyskie
+Klara;Krajewska;87;K;Miasteczko Slaskie;slaskie
+Dorian;Krajewski;84;M;Poddebice;lodzkie
+Ernest;Krajewski;98;M;Wegrow;mazowieckie
+Gracjan;Krajewski;44;M;Lubin;dolnoslaskie
+Ksawery;Krajewski;95;M;Krzeszowice;malopolskie
+Leonardo;Krajewski;24;M;Scinawa;dolnoslaskie
+Leonardo;Krajewski;54;M;Halinow;mazowieckie
+Roman;Krajewski;84;M;Jelenia Gora;dolnoslaskie
+Bianka;Krawczyk;19;K;Gniew;pomorskie
+Bruno;Krawczyk;79;M;Jaworzyna Slaska;dolnoslaskie
+Karol;Krawczyk;71;M;Jaroslaw;podkarpackie
+Lucyna;Krawczyk;36;K;Zlocieniec;zachodniopomorskie
+Marzanna;Krawczyk;86;K;Maszewo;zachodniopomorskie
+Miron;Krawczyk;62;M;Rejowiec;lubelskie
+Pawel;Krawczyk;81;M;Zielonka;mazowieckie
+Aleks;Krupa;97;M;Siedliszcze;lubelskie
+Amadeusz;Krupa;17;M;Alwernia;malopolskie
+Amadeusz;Krupa;98;M;Chocianow;dolnoslaskie
+Czeslaw;Krupa;80;M;Jedlicze;podkarpackie
+Daniela;Krupa;32;K;Puck;pomorskie
+Dorian;Krupa;84;M;Rzgow;lodzkie
+Irena;Krupa;30;K;Skorcz;pomorskie
+Jacek;Krupa;40;M;Raciaz;mazowieckie
+Jerzy;Krupa;99;M;Kudowa-Zdroj;dolnoslaskie
+Jozefa;Krupa;70;K;Strzyzow;podkarpackie
+Juliusz;Krupa;72;M;Kowary;dolnoslaskie
+Kajetan;Krupa;68;M;Hrubieszow;lubelskie
+Klementyna;Krupa;45;K;Grodzisk Wielkopolski;wielkopolskie
+Lucjan;Krupa;40;M;Mrocza;kujawsko-pomorskie
+Marta;Krupa;61;K;Hel;pomorskie
+Martyna;Krupa;16;K;Ruciane-Nida;warminsko-mazurskie
+Stefania;Krupa;51;K;Kolaczyce;podkarpackie
+Alfred;Kubiak;24;M;Lesna;dolnoslaskie
+Allan;Kubiak;87;M;Polanica-Zdroj;dolnoslaskie
+Arleta;Kubiak;54;K;Koniecpol;slaskie
+Cecylia;Kubiak;46;K;Sopot;pomorskie
+Daria;Kubiak;24;K;Miloslaw;wielkopolskie
+Halina;Kubiak;15;K;Stargard ;zachodniopomorskie
+Miroslawa;Kubiak;86;K;Elblag;warminsko-mazurskie
+Zuzanna;Kubiak;65;K;Pierzchnica;swietokrzyskie
+Ada;Kucharska;38;K;Wolin;zachodniopomorskie
+Agata;Kucharska;63;K;Zambrow;podlaskie
+Daria;Kucharska;79;K;Sulmierzyce;wielkopolskie
+Dorota;Kucharska;83;K;Zlocieniec;zachodniopomorskie
+Klaudia;Kucharska;34;K;Czarna Bialostocka;podlaskie
+Lucja;Kucharska;93;K;Gdynia;pomorskie
+Marcelina;Kucharska;88;K;Sejny;podlaskie
+Urszula;Kucharska;54;K;Narol;podkarpackie
+Dawid;Kucharski;61;M;Dobczyce;malopolskie
+Dominik;Kucharski;64;M;Nowa Ruda;dolnoslaskie
+Konstanty;Kucharski;80;M;Brzozow;podkarpackie
+Marek;Kucharski;65;M;Kostrzyn nad Odra;lubuskie
+Agata;Kwiatkowska;91;K;Cedynia;zachodniopomorskie
+Florentyna;Kwiatkowska;81;K;Dzialoszyce;swietokrzyskie
+Kaja;Kwiatkowska;21;K;Kartuzy;pomorskie
+Klementyna;Kwiatkowska;20;K;Krzywin;wielkopolskie
+Marysia;Kwiatkowska;15;K;Szczytno;warminsko-mazurskie
+Milena;Kwiatkowska;94;K;Poniec;wielkopolskie
+Natasza;Kwiatkowska;56;K;Nekla;wielkopolskie
+Stanislawa;Kwiatkowska;88;K;Szamocin;wielkopolskie
+Damian;Kwiatkowski;95;M;Glinojeck;mazowieckie
+Edward;Kwiatkowski;80;M;Nowy Dwor Mazowiecki;mazowieckie
+Gracjan;Kwiatkowski;42;M;Radkow;dolnoslaskie
+Kewin;Kwiatkowski;73;M;Jaslo;podkarpackie
+Konstanty;Kwiatkowski;77;M;Jawor;dolnoslaskie
+Marcin;Kwiatkowski;35;M;Lipno;kujawsko-pomorskie
+Asia;Laskowska;66;K;Swidwin;zachodniopomorskie
+Celina;Laskowska;62;K;Piekary Slaskie;slaskie
+Jola;Laskowska;24;K;Wislica;swietokrzyskie
+Julita;Laskowska;61;K;Stopnica;swietokrzyskie
+Karolina;Laskowska;62;K;Nisko;podkarpackie
+Malgorzata;Laskowska;24;K;Kazimierza Wielka;swietokrzyskie
+Natasza;Laskowska;33;K;Slawkow;slaskie
+Wiktoria;Laskowska;67;K;Zawichost;swietokrzyskie
+Damian;Laskowski;31;M;Gorzow Slaski;opolskie
+Eugeniusz;Laskowski;44;M;Solec Kujawski;kujawsko-pomorskie
+Patryk;Laskowski;74;M;Kozienice;mazowieckie
+Alicja;Lewandowska;45;K;Czerwionka-Leszczyny;slaskie
+Andrea;Lewandowska;64;K;Laziska Gorne;slaskie
+Joanna;Lewandowska;37;K;Ostrow Wielkopolski;wielkopolskie
+Jola;Lewandowska;71;K;Brusy;pomorskie
+Jolanta;Lewandowska;84;K;Krobia;wielkopolskie
+Julianna;Lewandowska;24;K;Goleniow;zachodniopomorskie
+Konstancja;Lewandowska;48;K;Wyrzysk;wielkopolskie
+Wanda;Lewandowska;35;K;Goscino;zachodniopomorskie
+Gracjan;Lewandowski;58;M;Niemcza;dolnoslaskie
+Mikolaj;Lewandowski;58;M;Zakliczyn;malopolskie
+Przemyslaw;Lewandowski;66;M;Tulowice;opolskie
+Amelia;Lis;23;K;Leszno;wielkopolskie
+Aniela;Lis;99;K;Siemiatycze;podlaskie
+Bogumil;Lis;78;M;Brzeziny;lodzkie
+Eryk;Lis;75;M;Losice;mazowieckie
+Eustachy;Lis;72;M;Lochow;mazowieckie
+Gniewomir;Lis;56;M;Dabrowa Tarnowska;malopolskie
+Julita;Lis;61;K;Trzemeszno;wielkopolskie
+Mikolaj;Lis;32;M;Mogilno;kujawsko-pomorskie
+Miron;Lis;50;M;Tomaszow Lubelski;lubelskie
+Radoslaw;Lis;83;M;Wadowice;malopolskie
+Regina;Lis;43;K;Bielsk Podlaski;podlaskie
+Ewelina;Maciejewska;49;K;Lubon;wielkopolskie
+Katarzyna;Maciejewska;92;K;Ogrodzieniec;slaskie
+Martyna;Maciejewska;23;K;Wisla;slaskie
+Matylda;Maciejewska;15;K;Sieniawa;podkarpackie
+Zuza;Maciejewska;30;K;Pszczyna;slaskie
+Alfred;Maciejewski;82;M;Nowy Sacz;malopolskie
+Jaroslaw;Maciejewski;50;M;Paczkow;opolskie
+Kordian;Maciejewski;73;M;Brzeg;opolskie
+Ksawery;Maciejewski;34;M;Pultusk;mazowieckie
+Michal;Maciejewski;22;M;Szydlowiec;mazowieckie
+Radoslaw;Maciejewski;19;M;Prusice;dolnoslaskie
+Elena;Makowska;17;K;Chodziez;wielkopolskie
+Eleonora;Makowska;98;K;Olesnica;swietokrzyskie
+Iza;Makowska;34;K;Morawica;swietokrzyskie
+Izabela;Makowska;34;K;Gostyn;wielkopolskie
+Julia;Makowska;82;K;Ustrzyki Dolne;podkarpackie
+Julita;Makowska;65;K;Nowa Sarzyna;podkarpackie
+Kamila;Makowska;71;K;Lobzenica;wielkopolskie
+Monika;Makowska;55;K;Bobolice;zachodniopomorskie
+Regina;Makowska;21;K;Gniezno;wielkopolskie
+Alex;Makowski;68;M;Zawidow;dolnoslaskie
+Anatol;Makowski;87;M;Warszawa;mazowieckie
+Gracjan;Makowski;63;M;Iwonicz-Zdroj;podkarpackie
+Janusz;Makowski;25;M;Opole Lubelskie;lubelskie
+Kajetan;Makowski;43;M;Grodkow;opolskie
+Olgierd;Makowski;67;M;Strzelce Opolskie;opolskie
+Pawel;Makowski;52;M;Pakosc;kujawsko-pomorskie
+Amanda;Malinowska;51;K;Stargard ;zachodniopomorskie
+Anastazja;Malinowska;26;K;Orneta;warminsko-mazurskie
+Bogda;Malinowska;91;K;Wachock;swietokrzyskie
+Halina;Malinowska;41;K;Sokolow Malopolski;podkarpackie
+Idalia;Malinowska;57;K;Trzcinsko-Zdroj;zachodniopomorskie
+Ola;Malinowska;49;K;Radymno;podkarpackie
+Allan;Malinowski;95;M;Olesno;opolskie
+Amir;Malinowski;69;M;Dobrzyn nad Wisla;kujawsko-pomorskie
+Borys;Malinowski;86;M;Sycow;dolnoslaskie
+Fabian;Malinowski;75;M;Ujazd;opolskie
+Fryderyk;Malinowski;48;M;Grybow;malopolskie
+Kacper;Malinowski;64;M;Strykow;lodzkie
+Marcel;Malinowski;96;M;Miedzyborz;dolnoslaskie
+Norbert;Malinowski;89;M;Kruszwica;kujawsko-pomorskie
+Allan;Marciniak;76;M;Drzewica;lodzkie
+Amadeusz;Marciniak;23;M;Baranow Sandomierski;podkarpackie
+Cezary;Marciniak;16;M;Aleksandrow Lodzki;lodzkie
+Fryderyk;Marciniak;81;M;Rypin;kujawsko-pomorskie
+Jolanta;Marciniak;95;K;Szczekociny;slaskie
+Kuba;Marciniak;59;M;Niemodlin;opolskie
+Marysia;Marciniak;65;K;Reszel;warminsko-mazurskie
+Natasza;Marciniak;88;K;Bytom;slaskie
+Norbert;Marciniak;76;M;Lowicz;lodzkie
+Robert;Marciniak;16;M;Zuromin;mazowieckie
+Danuta;Mazur;55;K;Rajgrod;podlaskie
+Ireneusz;Mazur;31;M;Skwierzyna;lubuskie
+Janusz;Mazur;25;M;Skawina;malopolskie
+Klaudia;Mazur;78;K;Krajenka;wielkopolskie
+Liliana;Mazur;25;K;Slesin;wielkopolskie
+Maciej;Mazur;16;M;Kutno;lodzkie
+Martin;Mazur;98;M;Praszka;opolskie
+Pawel;Mazur;53;M;Stary Sacz;malopolskie
+Radoslaw;Mazur;61;M;Inowroclaw;kujawsko-pomorskie
+Agata;Mazurek;96;K;Oleszyce;podkarpackie
+Barbara;Mazurek;76;K;Jastrzebie-Zdroj;slaskie
+Bogumil;Mazurek;27;M;Ciechanow;mazowieckie
+Borys;Mazurek;40;M;Sochaczew;mazowieckie
+Cezary;Mazurek;97;M;Zmigrod;dolnoslaskie
+Eleonora;Mazurek;48;K;Radoszyce;swietokrzyskie
+Ernest;Mazurek;24;M;Barcin;kujawsko-pomorskie
+Janusz;Mazurek;26;M;Kcynia;kujawsko-pomorskie
+Kaja;Mazurek;76;K;Ujscie;wielkopolskie
+Magda;Mazurek;93;K;Staporkow;swietokrzyskie
+Alexander;Michalak;76;M;Kozuchow;lubuskie
+Anastazy;Michalak;66;M;Pieszyce;dolnoslaskie
+Aniela;Michalak;91;K;Miejska Gorka;wielkopolskie
+Cyprian;Michalak;55;M;Lwowek Slaski;dolnoslaskie
+Damian;Michalak;18;M;Zyrardow;mazowieckie
+Dorian;Michalak;46;M;Grojec;mazowieckie
+Fabian;Michalak;29;M;Cieszanow;podkarpackie
+Heronim;Michalak;79;M;Urzedow;lubelskie
+Klaudiusz;Michalak;52;M;Wyszogrod;mazowieckie
+Klementyna;Michalak;29;K;Barwice;zachodniopomorskie
+Michal;Michalak;90;M;Polkowice;dolnoslaskie
+Olga;Michalak;29;K;Skoki;wielkopolskie
+Pamela;Michalak;60;K;Imielin;slaskie
+Paula;Michalak;75;K;Drohiczyn;podlaskie
+Piotr;Michalak;20;M;Wieruszow;lodzkie
+Rafal;Michalak;77;M;Brzesc Kujawski;kujawsko-pomorskie
+Bartlomiej;Mroz;81;M;Krasnobrod;lubelskie
+Czeslaw;Mroz;58;M;Ilowa;lubuskie
+Eustachy;Mroz;99;M;Prochowice;dolnoslaskie
+Ewa;Mroz;32;K;Czerwionka-Leszczyny;slaskie
+Faustyna;Mroz;82;K;Jedwabne;podlaskie
+Iza;Mroz;67;K;Dobrzany;zachodniopomorskie
+Jaroslaw;Mroz;70;M;Zabki;mazowieckie
+Kamila;Mroz;28;K;Lebork;pomorskie
+Martin;Mroz;26;M;Lewin Brzeski;opolskie
+Ryszard;Mroz;47;M;Grudziadz;kujawsko-pomorskie
+Stefania;Mroz;98;K;Siemianowice Slaskie;slaskie
+Ada;Nowak;44;K;Tarnowskie Gory;slaskie
+Aleks;Nowak;80;M;Makow Podhalanski;malopolskie
+Anastazy;Nowak;57;M;Bochnia;malopolskie
+Bartosz;Nowak;78;M;Nowogrod Bobrzanski;lubuskie
+Felicja;Nowak;89;K;Drohiczyn;podlaskie
+Florencja;Nowak;67;K;Ropczyce;podkarpackie
+Gniewomir;Nowak;69;M;Nowe Brzesko;malopolskie
+Irena;Nowak;86;K;Zlotow;wielkopolskie
+Jadwiga;Nowak;28;K;Kepice;pomorskie
+Karolina;Nowak;80;K;Ryn;warminsko-mazurskie
+Kornel;Nowak;17;M;Szklarska Poreba;dolnoslaskie
+Oksana;Nowak;56;K;Rakoniewice;wielkopolskie
+Oksana;Nowak;86;K;Drohiczyn;podlaskie
+Oktawian;Nowak;87;M;Zloty Stok;dolnoslaskie
+Wiktoria;Nowak;28;K;Przeworsk;podkarpackie
+Alana;Ostrowska;56;K;Stawiszyn;wielkopolskie
+Andrea;Ostrowska;52;K;Starogard Gdanski;pomorskie
+Karolina;Ostrowska;19;K;Opalenica;wielkopolskie
+Maja;Ostrowska;33;K;Swidwin;zachodniopomorskie
+Roza;Ostrowska;99;K;Chociwel;zachodniopomorskie
+Wanda;Ostrowska;15;K;Wielbark;warminsko-mazurskie
+Alexander;Ostrowski;71;M;Pilawa Gorna;dolnoslaskie
+Allan;Ostrowski;23;M;Opoczno;lodzkie
+Ernest;Ostrowski;48;M;Bilgoraj;lubelskie
+Eustachy;Ostrowski;56;M;Bobowa;malopolskie
+Gracjan;Ostrowski;42;M;Bielawa;dolnoslaskie
+Joachim;Ostrowski;62;M;Laskarzew;mazowieckie
+Klaudiusz;Ostrowski;61;M;Boguszow-Gorce;dolnoslaskie
+Maksymilian;Ostrowski;95;M;Kalwaria Zebrzydowska;malopolskie
+Maurycy;Ostrowski;30;M;Wlodawa;lubelskie
+Oskar;Ostrowski;86;M;Nowy Wisnicz;malopolskie
+Antonina;Pawlak;21;K;Opatow;swietokrzyskie
+Blanka;Pawlak;97;K;Miedzychod;wielkopolskie
+Daniela;Pawlak;19;K;Zywiec;slaskie
+Eugeniusz;Pawlak;33;M;Kietrz;opolskie
+Ignacy;Pawlak;28;M;Sroda Slaska;dolnoslaskie
+Jacek;Pawlak;67;M;Koszyce;malopolskie
+Jan;Pawlak;27;M;Skierniewice;lodzkie
+Kuba;Pawlak;79;M;Zgorzelec;dolnoslaskie
+Marian;Pawlak;74;M;Piotrkow Kujawski;kujawsko-pomorskie
+Oktawia;Pawlak;62;K;Korsze;warminsko-mazurskie
+Oliwia;Pawlak;72;K;Pinczow;swietokrzyskie
+Radoslaw;Pawlak;25;M;Lesnica;opolskie
+Radoslaw;Pawlak;84;M;Zloczew;lodzkie
+Stefania;Pawlak;64;K;Dobra;zachodniopomorskie
+Albert;Pietrzak;26;M;Przemkow;dolnoslaskie
+Alek;Pietrzak;24;M;Przedborz;lodzkie
+Anastazy;Pietrzak;78;M;Szczawno-Zdroj;dolnoslaskie
+Emanuel;Pietrzak;85;M;Zlotoryja;dolnoslaskie
+Grzegorz;Pietrzak;75;M;Piotrkow Trybunalski;lodzkie
+Halina;Pietrzak;15;K;Olsztyn;warminsko-mazurskie
+Jaroslaw;Pietrzak;30;M;Swiatniki Gorne;malopolskie
+Julita;Pietrzak;85;K;Walcz;zachodniopomorskie
+Konstanty;Pietrzak;78;M;Duszniki-Zdroj;dolnoslaskie
+Lara;Pietrzak;39;K;Klobuck;slaskie
+Arleta;Piotrowska;81;K;Klecko;wielkopolskie
+Barbara;Piotrowska;55;K;Zabrze;slaskie
+Elena;Piotrowska;17;K;Mikolajki;warminsko-mazurskie
+Eleonora;Piotrowska;16;K;Miedzyzdroje;zachodniopomorskie
+Irena;Piotrowska;76;K;Rydzyna;wielkopolskie
+Marcelina;Piotrowska;16;K;Szepietowo;podlaskie
+Oksana;Piotrowska;24;K;Skarzysko-Kamienna;swietokrzyskie
+Oliwia;Piotrowska;30;K;Frombork;warminsko-mazurskie
+Zaneta;Piotrowska;65;K;Dobre Miasto;warminsko-mazurskie
+Jozef;Piotrowski;19;M;Wielun;lodzkie
+Kewin;Piotrowski;71;M;Sucha Beskidzka;malopolskie
+Konrad;Piotrowski;46;M;Bierutow;dolnoslaskie
+Kornel;Piotrowski;42;M;Sokolow Podlaski;mazowieckie
+Alisa;Przybylska;28;K;Bartoszyce;warminsko-mazurskie
+Bogumila;Przybylska;57;K;Lagow;swietokrzyskie
+Cecylia;Przybylska;45;K;Sompolno;wielkopolskie
+Danuta;Przybylska;68;K;Koscian;wielkopolskie
+Ewelina;Przybylska;49;K;Stalowa Wola;podkarpackie
+Matylda;Przybylska;98;K;Suchan;zachodniopomorskie
+Zaneta;Przybylska;58;K;Stepnica;zachodniopomorskie
+Aleksander;Przybylski;65;M;Jablonowo Pomorskie;kujawsko-pomorskie
+Kornel;Przybylski;87;M;Szadek;lodzkie
+Norbert;Przybylski;39;M;Osno Lubuskie;lubuskie
+Oktawian;Przybylski;78;M;Sulecin;lubuskie
+Alicja;Rutkowska;99;K;Zory;slaskie
+Danuta;Rutkowska;58;K;Trzebiatow;zachodniopomorskie
+Dominika;Rutkowska;81;K;Malbork;pomorskie
+Eliza;Rutkowska;93;K;Okonek;wielkopolskie
+Ewa;Rutkowska;22;K;Lesko;podkarpackie
+Florencja;Rutkowska;16;K;Kanczuga;podkarpackie
+Julianna;Rutkowska;43;K;Knyszyn;podlaskie
+Karolina;Rutkowska;45;K;Slupca;wielkopolskie
+Klaudia;Rutkowska;34;K;Lipiany;zachodniopomorskie
+Oliwia;Rutkowska;18;K;Chojna;zachodniopomorskie
+Otylia;Rutkowska;31;K;Wloszczowa;swietokrzyskie
+Stefania;Rutkowska;94;K;Olecko;warminsko-mazurskie
+Alex;Rutkowski;85;M;Sroda Slaska;dolnoslaskie
+Antoni;Rutkowski;49;M;Myslenice;malopolskie
+Dawid;Rutkowski;43;M;Myslenice;malopolskie
+Eustachy;Rutkowski;26;M;Golub-Dobrzyn;kujawsko-pomorskie
+Igor;Rutkowski;17;M;Karczew;mazowieckie
+Karol;Rutkowski;71;M;Zabkowice Slaskie;dolnoslaskie
+Marcel;Rutkowski;37;M;Wolbrom;malopolskie
+Mariusz;Rutkowski;20;M;Karpacz;dolnoslaskie
+Miron;Rutkowski;76;M;Brzeszcze;malopolskie
+Pawel;Rutkowski;53;M;Parczew;lubelskie
+Balbina;Sadowska;46;K;Tczew;pomorskie
+Bernadetta;Sadowska;76;K;Pisz;warminsko-mazurskie
+Jozefa;Sadowska;81;K;Buk;wielkopolskie
+Lara;Sadowska;54;K;Lwowek;wielkopolskie
+Zaneta;Sadowska;55;K;Konin;wielkopolskie
+Ariel;Sadowski;79;M;Brzostek;podkarpackie
+Artur;Sadowski;90;M;Szczawnica;malopolskie
+Ernest;Sadowski;47;M;Lubniewice;lubuskie
+Ernest;Sadowski;53;M;Janowiec Wielkopolski;kujawsko-pomorskie
+Jaroslaw;Sadowski;64;M;Bolkow;dolnoslaskie
+Jedrzej;Sadowski;83;M;Krasnik;lubelskie
+Norbert;Sadowski;18;M;Sierpc;mazowieckie
+Bogna;Sawicka;89;K;Police;zachodniopomorskie
+Karolina;Sawicka;83;K;Rzeszow;podkarpackie
+Klaudia;Sawicka;68;K;Dobrzyca;wielkopolskie
+Lila;Sawicka;86;K;Pogorzela;wielkopolskie
+Marlena;Sawicka;93;K;Kalisz;wielkopolskie
+Zuzanna;Sawicka;15;K;Kunow;swietokrzyskie
+Zuzanna;Sawicka;17;K;Wielichowo;wielkopolskie
+Alex;Sawicki;19;M;Szprotawa;lubuskie
+Bruno;Sawicki;42;M;Otwock;mazowieckie
+Czeslaw;Sawicki;89;M;Serock;mazowieckie
+Dorian;Sawicki;86;M;Bydgoszcz;kujawsko-pomorskie
+Jedrzej;Sawicki;15;M;Kamiensk;lodzkie
+Ksawery;Sawicki;22;M;Gogolin;opolskie
+Anita;Sikora;85;K;Swarzedz;wielkopolskie
+Cezary;Sikora;27;M;Mirsk;dolnoslaskie
+Dariusz;Sikora;79;M;Krakow;malopolskie
+Dorian;Sikora;18;M;Gluszyca;dolnoslaskie
+Jacek;Sikora;73;M;Drezdenko;lubuskie
+Jakub;Sikora;90;M;Wabrzezno;kujawsko-pomorskie
+Juliusz;Sikora;88;M;Warta;lodzkie
+Kazimierz;Sikora;20;M;Milanowek;mazowieckie
+Leszek;Sikora;39;M;Sobotka;dolnoslaskie
+Leszek;Sikora;45;M;Muszyna;malopolskie
+Lucjan;Sikora;77;M;Ryglice;malopolskie
+Roman;Sikora;28;M;Zwolen;mazowieckie
+Helena;Sikorska;83;K;Busko-Zdroj;swietokrzyskie
+Iza;Sikorska;99;K;Kamien Pomorski;zachodniopomorskie
+Monika;Sikorska;85;K;Dziwnow;zachodniopomorskie
+Oliwia;Sikorska;65;K;Borek Wielkopolski;wielkopolskie
+Stanislawa;Sikorska;18;K;Kwidzyn;pomorskie
+Aleksander;Sikorski;44;M;Wroclaw;dolnoslaskie
+Alojzy;Sikorski;82;M;Ziebice;dolnoslaskie
+Dawid;Sikorski;59;M;Deblin;lubelskie
+Emanuel;Sikorski;38;M;Swierzawa;dolnoslaskie
+Anastazja;Sobczak;58;K;Lancut;podkarpackie
+Asia;Sobczak;54;K;Paslek;warminsko-mazurskie
+Barbara;Sobczak;95;K;Mieszkowice;zachodniopomorskie
+Bianka;Sobczak;29;K;Krzepice;slaskie
+Dagmara;Sobczak;60;K;Debno;zachodniopomorskie
+Felicja;Sobczak;69;K;Ruciane-Nida;warminsko-mazurskie
+Fryderyk;Sobczak;53;M;Wysmierzyce;mazowieckie
+Jan;Sobczak;35;M;Wojnicz;malopolskie
+Jan;Sobczak;48;M;Myszyniec;mazowieckie
+Julianna;Sobczak;23;K;Szydlow;swietokrzyskie
+Kajetan;Sobczak;79;M;Plock;mazowieckie
+Klara;Sobczak;95;K;Poreba;slaskie
+Luiza;Sobczak;38;K;Slupsk;pomorskie
+Maksymilian;Sobczak;71;M;Olesno;opolskie
+Matylda;Sobczak;74;K;Nowe Warpno;zachodniopomorskie
+Oliwia;Sobczak;85;K;Jeziorany;warminsko-mazurskie
+Katarzyna;Sokolowska;66;K;Borne Sulinowo;zachodniopomorskie
+Lucja;Sokolowska;23;K;Przeclaw;podkarpackie
+Marcelina;Sokolowska;22;K;Milakowo;warminsko-mazurskie
+Marysia;Sokolowska;68;K;Pilica;slaskie
+Oliwia;Sokolowska;33;K;Kozieglowy;slaskie
+Alex;Sokolowski;21;M;Legnica;dolnoslaskie
+Bartlomiej;Sokolowski;63;M;Jawor;dolnoslaskie
+Fryderyk;Sokolowski;67;M;Janowiec Wielkopolski;kujawsko-pomorskie
+Ludwik;Sokolowski;57;M;Konstantynow Lodzki;lodzkie
+Mateusz;Sokolowski;87;M;Krosniewice;lodzkie
+Oskar;Sokolowski;32;M;Slawa;lubuskie
+Oskar;Sokolowski;43;M;Lubien Kujawski;kujawsko-pomorskie
+Anastazy;Stepien;77;M;Piwniczna-Zdroj;malopolskie
+Emil;Stepien;44;M;Grodzisk Mazowiecki;mazowieckie
+Gabriela;Stepien;94;K;Gizycko;warminsko-mazurskie
+Irena;Stepien;43;K;Czersk;pomorskie
+Kryspin;Stepien;98;M;Kamien Krajenski;kujawsko-pomorskie
+Marcelina;Stepien;96;K;Checiny;swietokrzyskie
+Marian;Stepien;29;M;Wloclawek;kujawsko-pomorskie
+Michal;Stepien;42;M;Wolow;dolnoslaskie
+Roza;Stepien;49;K;Czyzew;podlaskie
+Ryszard;Stepien;74;M;Tyszowce;lubelskie
+Agnieszka;Szczepanska;83;K;Nowy Staw;pomorskie
+Anita;Szczepanska;36;K;Czarne;pomorskie
+Celina;Szczepanska;64;K;Orneta;warminsko-mazurskie
+Dagmara;Szczepanska;92;K;Krynki;podlaskie
+Dorota;Szczepanska;28;K;Goldap;warminsko-mazurskie
+Elwira;Szczepanska;96;K;Kepice;pomorskie
+Ilona;Szczepanska;44;K;Klodawa;wielkopolskie
+Joanna;Szczepanska;82;K;Drawno;zachodniopomorskie
+Magda;Szczepanska;72;K;Drawsko Pomorskie;zachodniopomorskie
+Paulina;Szczepanska;57;K;Debrzno;pomorskie
+Roza;Szczepanska;56;K;Zagorow;wielkopolskie
+Stanislawa;Szczepanska;52;K;Kolo;wielkopolskie
+Stefania;Szczepanska;78;K;Jaworzno;slaskie
+Wioletta;Szczepanska;85;K;Krosno;podkarpackie
+Albert;Szczepanski;56;M;Konstancin-Jeziorna;mazowieckie
+Dawid;Szczepanski;99;M;Wiazow;dolnoslaskie
+Jakub;Szczepanski;97;M;Olesnica;dolnoslaskie
+Karol;Szczepanski;52;M;Miedzylesie;dolnoslaskie
+Kornel;Szczepanski;82;M;Rzepin;lubuskie
+Mariusz;Szczepanski;52;M;Radzymin;mazowieckie
+Adam;Szewczyk;66;M;Strzelce Krajenskie;lubuskie
+Bogda;Szewczyk;37;K;Pyskowice;slaskie
+Gracjan;Szewczyk;48;M;Pabianice;lodzkie
+Joanna;Szewczyk;51;K;Blachownia;slaskie
+Lucyna;Szewczyk;58;K;Piekary Slaskie;slaskie
+Marta;Szewczyk;27;K;Orzesze;slaskie
+Maurycy;Szewczyk;83;M;Malomice;lubuskie
+Olga;Szewczyk;88;K;Miastko;pomorskie
+Otylia;Szewczyk;55;K;Dabrowa Gornicza;slaskie
+Przemyslaw;Szewczyk;22;M;Baborow;opolskie
+Allan;Szulc;58;M;Rawa Mazowiecka;lodzkie
+Andrzej;Szulc;41;M;Wolomin;mazowieckie
+Dawid;Szulc;48;M;Tluszcz;mazowieckie
+Eugeniusz;Szulc;16;M;Proszkow;opolskie
+Florencja;Szulc;26;K;Smigiel;wielkopolskie
+Ida;Szulc;75;K;Slawkow;slaskie
+Judyta;Szulc;34;K;Wojkowice;slaskie
+Julian;Szulc;53;M;Namyslow;opolskie
+Karolina;Szulc;46;K;Myslowice;slaskie
+Roza;Szulc;33;K;Czaplinek;zachodniopomorskie
+Matylda;Szymanska;47;K;Sosnowiec;slaskie
+Regina;Szymanska;69;K;Zawiercie;slaskie
+Roza;Szymanska;62;K;Insko;zachodniopomorskie
+Urszula;Szymanska;56;K;Darlowo;zachodniopomorskie
+Edward;Szymanski;26;M;Skepe;kujawsko-pomorskie
+Fryderyk;Szymanski;67;M;Milanowek;mazowieckie
+Jerzy;Szymanski;94;M;Mieroszow;dolnoslaskie
+Kajetan;Szymanski;44;M;Radlow;malopolskie
+Kewin;Szymanski;30;M;Libiaz;malopolskie
+Michal;Szymanski;20;M;Chojnow;dolnoslaskie
+Milan;Szymanski;70;M;Kowal;kujawsko-pomorskie
+Przemyslaw;Szymanski;21;M;Wiecbork;kujawsko-pomorskie
+Alfred;Szymczak;41;M;Biecz;malopolskie
+Angelika;Szymczak;49;K;Biskupiec;warminsko-mazurskie
+Anita;Szymczak;54;K;Dabrowa Bialostocka;podlaskie
+Dorian;Szymczak;97;M;Kamienna Gora;dolnoslaskie
+Emanuel;Szymczak;19;M;Ladek-Zdroj;dolnoslaskie
+Hortensja;Szymczak;26;K;Ciechanowiec;podlaskie
+Julian;Szymczak;87;M;Jordanow;malopolskie
+Marta;Szymczak;46;K;Lubliniec;slaskie
+Otylia;Szymczak;27;K;Golancz;wielkopolskie
+Anastazja;Tomaszewska;73;K;Zbaszyn;wielkopolskie
+Arleta;Tomaszewska;77;K;Kornik;wielkopolskie
+Bogna;Tomaszewska;47;K;Myszkow;slaskie
+Dagmara;Tomaszewska;39;K;Mragowo;warminsko-mazurskie
+Dagmara;Tomaszewska;80;K;Dzialdowo;warminsko-mazurskie
+Elena;Tomaszewska;47;K;Radomysl Wielki;podkarpackie
+Ewelina;Tomaszewska;20;K;Opatowiec;swietokrzyskie
+Franciszka;Tomaszewska;26;K;Pilica;slaskie
+Malwina;Tomaszewska;65;K;Lazy;slaskie
+Alojzy;Tomaszewski;78;M;Lukow;lubelskie
+Edward;Tomaszewski;94;M;Zary;lubuskie
+Jacek;Tomaszewski;25;M;Minsk Mazowiecki;mazowieckie
+Mikolaj;Tomaszewski;29;M;Przysucha;mazowieckie
+Olaf;Tomaszewski;72;M;Jasien;lubuskie
+Agata;Urbanska;17;K;Sierakow;wielkopolskie
+Ewa;Urbanska;96;K;Krzywin;wielkopolskie
+Jadwiga;Urbanska;25;K;Grabow nad Prosna;wielkopolskie
+Kornelia;Urbanska;97;K;Krzyz Wielkopolski;wielkopolskie
+Patrycja;Urbanska;47;K;Kalety;slaskie
+Roza;Urbanska;18;K;Mikolow;slaskie
+Teresa;Urbanska;23;K;Golczewo;zachodniopomorskie
+Florian;Urbanski;68;M;Tuszyn;lodzkie
+Hubert;Urbanski;91;M;Szczawno-Zdroj;dolnoslaskie
+Jozef;Urbanski;54;M;Blonie;mazowieckie
+Kryspin;Urbanski;47;M;Wschowa;lubuskie
+Maciej;Urbanski;77;M;Lodz;lodzkie
+Michal;Urbanski;66;M;Zawadzkie;opolskie
+Alojzy;Walczak;21;M;Skala;malopolskie
+Cecylia;Walczak;68;K;Bransk;podlaskie
+Daria;Walczak;59;K;Koprzywnica;swietokrzyskie
+Dorota;Walczak;37;K;Czarnkow;wielkopolskie
+Elzbieta;Walczak;39;K;Bialy Bor;zachodniopomorskie
+Florentyna;Walczak;80;K;Olsztyn;warminsko-mazurskie
+Konrad;Walczak;56;M;Trzciel;lubuskie
+Leonardo;Walczak;62;M;Stronie Slaskie;dolnoslaskie
+Marek;Walczak;35;M;Swiebodzin;lubuskie
+Oksana;Walczak;25;K;Barczewo;warminsko-mazurskie
+Daria;Wasilewska;62;K;Zalewo;warminsko-mazurskie
+Kamila;Wasilewska;57;K;Ilawa;warminsko-mazurskie
+Cyprian;Wasilewski;89;M;Zwolen;mazowieckie
+Diego;Wasilewski;42;M;Mszana Dolna;malopolskie
+Ksawery;Wasilewski;51;M;Pajeczno;lodzkie
+Maksymilian;Wasilewski;73;M;Pionki;mazowieckie
+Marian;Wasilewski;99;M;Miedzyrzec Podlaski;lubelskie
+Mateusz;Wasilewski;75;M;Brzesko;malopolskie
+Pawel;Wasilewski;80;M;Sulkowice;malopolskie
+Aisha;Wisniewska;24;K;Choszczno;zachodniopomorskie
+Alicja;Wisniewska;54;K;Zabludow ;podlaskie
+Lidia;Wisniewska;29;K;Mlynary;warminsko-mazurskie
+Malgorzata;Wisniewska;34;K;Poreba;slaskie
+Martyna;Wisniewska;39;K;Czechowice-Dziedzice;slaskie
+Natalia;Wisniewska;85;K;Nowy Tomysl;wielkopolskie
+Wanda;Wisniewska;92;K;Polczyn-Zdroj;zachodniopomorskie
+Arkadiusz;Wisniewski;45;M;Kobylka;mazowieckie
+Jerzy;Wisniewski;72;M;Brwinow;mazowieckie
+Marek;Wisniewski;61;M;Lask;lodzkie
+Mateusz;Wisniewski;15;M;Miedzyrzecz;lubuskie
+Adela;Witkowska;83;K;Susz;warminsko-mazurskie
+Amalia;Witkowska;43;K;Radlin;slaskie
+Amalia;Witkowska;88;K;Oborniki;wielkopolskie
+Asia;Witkowska;74;K;Lomza;podlaskie
+Celina;Witkowska;81;K;Nowy Korczyn;swietokrzyskie
+Czeslawa;Witkowska;44;K;Kobylin;wielkopolskie
+Malgorzata;Witkowska;76;K;Czarne;pomorskie
+Marysia;Witkowska;32;K;Lidzbark Warminski;warminsko-mazurskie
+Weronika;Witkowska;81;K;Ustron;slaskie
+Alan;Witkowski;38;M;Strzelce Krajenskie;lubuskie
+Dominik;Witkowski;18;M;Prudnik;opolskie
+Heronim;Witkowski;87;M;Bystrzyca Klodzka;dolnoslaskie
+Konstanty;Witkowski;38;M;Gora Kalwaria;mazowieckie
+Krystian;Witkowski;59;M;Bogatynia;dolnoslaskie
+Oktawian;Witkowski;65;M;Strzegom;dolnoslaskie
+Alisa;Wlodarczyk;47;K;Czlopa;zachodniopomorskie
+Blazej;Wlodarczyk;25;M;Chrzanow;malopolskie
+Boleslaw;Wlodarczyk;86;M;Krosno Odrzanskie;lubuskie
+Felicja;Wlodarczyk;55;K;Trzcianka;wielkopolskie
+Hubert;Wlodarczyk;82;M;Dzialoszyn;lodzkie
+Leonardo;Wlodarczyk;50;M;Koluszki;lodzkie
+Marcelina;Wlodarczyk;84;K;Wysokie Mazowieckie;podlaskie
+Martin;Wlodarczyk;92;M;Chelm;lubelskie
+Oskar;Wlodarczyk;62;M;Tuchola;kujawsko-pomorskie
+Sylwia;Wlodarczyk;22;K;Skarszewy;pomorskie
+Zuza;Wlodarczyk;74;K;Zduny;wielkopolskie
+Ewa;Wojciechowska;16;K;Wielen;wielkopolskie
+Florentyna;Wojciechowska;36;K;Kleszczele;podlaskie
+Marcelina;Wojciechowska;42;K;Grajewo;podlaskie
+Oliwia;Wojciechowska;29;K;Sroda Wielkopolska;wielkopolskie
+Bartlomiej;Wojciechowski;30;M;Modliborzyce;lubelskie
+Igor;Wojciechowski;77;M;Sulejowek;mazowieckie
+Krystian;Wojciechowski;27;M;Kowalewo Pomorskie;kujawsko-pomorskie
+Mariusz;Wojciechowski;66;M;Janikowo;kujawsko-pomorskie
+Martin;Wojciechowski;63;M;Kosow Lacki;mazowieckie
+Aleks;Wozniak;44;M;Czerwiensk;lubuskie
+Aleksandra;Wozniak;57;K;Raszkow;wielkopolskie
+Bernadetta;Wozniak;34;K;Ostroda;warminsko-mazurskie
+Bernadetta;Wozniak;88;K;Krotoszyn;wielkopolskie
+Czeslawa;Wozniak;27;K;Barlinek;zachodniopomorskie
+Jozefa;Wozniak;19;K;Mikstat;wielkopolskie
+Justyna;Wozniak;22;K;Opatowek;wielkopolskie
+Krystyna;Wozniak;50;K;Bisztynek;warminsko-mazurskie
+Rafal;Wozniak;51;M;Lubraniec;kujawsko-pomorskie
+Aleksander;Wojcik;18;M;Olawa;dolnoslaskie
+Amadeusz;Wojcik;15;M;Proszowice;malopolskie
+Cezary;Wojcik;37;M;Strzelno;kujawsko-pomorskie
+Joachim;Wojcik;91;M;Gabin;mazowieckie
+Jowita;Wojcik;70;K;Lobez;zachodniopomorskie
+Judyta;Wojcik;32;K;Wodzislaw Slaski;slaskie
+Kaja;Wojcik;51;K;Narol;podkarpackie
+Olimpia;Wojcik;38;K;Klecko;wielkopolskie
+Oliwia;Wojcik;94;K;Sianow;zachodniopomorskie
+Alina;Wroblewska;73;K;Rybnik;slaskie
+Bernadetta;Wroblewska;55;K;Stawiski;podlaskie
+Dagmara;Wroblewska;89;K;Wasilkow;podlaskie
+Dominika;Wroblewska;62;K;Bojanowo;wielkopolskie
+Ilona;Wroblewska;63;K;Pieniezno;warminsko-mazurskie
+Katarzyna;Wroblewska;41;K;Raciborz;slaskie
+Natasza;Wroblewska;46;K;Czestochowa;slaskie
+Stanislawa;Wroblewska;38;K;Lubaczow;podkarpackie
+Zofia;Wroblewska;42;K;Tarnobrzeg;podkarpackie
+Zaneta;Wroblewska;33;K;Monki;podlaskie
+Aleksy;Wroblewski;93;M;Sepolno Krajenskie;kujawsko-pomorskie
+Allan;Wroblewski;56;M;Labiszyn;kujawsko-pomorskie
+Florian;Wroblewski;15;M;Aleksandrow Kujawski;kujawsko-pomorskie
+Hubert;Wroblewski;91;M;Krynica-Zdroj;malopolskie
+Maksymilian;Wroblewski;16;M;Glubczyce;opolskie
+Agnieszka;Wysocka;49;K;Pacanow;swietokrzyskie
+Aniela;Wysocka;94;K;Szczecinek;zachodniopomorskie
+Arleta;Wysocka;49;K;Wysoka;wielkopolskie
+Asia;Wysocka;99;K;Kanczuga;podkarpackie
+Bogna;Wysocka;34;K;Biala Piska;warminsko-mazurskie
+Jolanta;Wysocka;60;K;Recz;zachodniopomorskie
+Konstancja;Wysocka;30;K;Cieszyn;slaskie
+Kornelia;Wysocka;36;K;Lipsk;podlaskie
+Roksana;Wysocka;88;K;Polanow;zachodniopomorskie
+Stefania;Wysocka;83;K;Pobiedziska;wielkopolskie
+Andrzej;Wysocki;55;M;Znin;kujawsko-pomorskie
+Filip;Wysocki;70;M;Nowe Miasteczko;lubuskie
+Mateusz;Wysocki;50;M;Radziejow;kujawsko-pomorskie
+Adela;Zakrzewska;81;K;Suprasl;podlaskie
+Bianka;Zakrzewska;72;K;Tyczyn;podkarpackie
+Dominika;Zakrzewska;96;K;Wegorzewo;warminsko-mazurskie
+Ewelina;Zakrzewska;37;K;Moryn;zachodniopomorskie
+Jadwiga;Zakrzewska;83;K;Dzierzgon;pomorskie
+Milena;Zakrzewska;15;K;Chocz;wielkopolskie
+Stanislawa;Zakrzewska;17;K;Kuznia Raciborska;slaskie
+Teresa;Zakrzewska;31;K;Pszow;slaskie
+Boleslaw;Zakrzewski;70;M;Trzebinia;malopolskie
+Dominik;Zakrzewski;86;M;Sanniki;mazowieckie
+Gracjan;Zakrzewski;60;M;Zakopane;malopolskie
+Jacek;Zakrzewski;42;M;Lubawka;dolnoslaskie
+Janusz;Zakrzewski;48;M;Bogatynia;dolnoslaskie
+Kornel;Zakrzewski;26;M;Witnica;lubuskie
+Mikolaj;Zakrzewski;74;M;Brzeg Dolny;dolnoslaskie
+Oktawian;Zakrzewski;17;M;Zychlin;lodzkie
+Eleonora;Zalewska;69;K;Jaraczewo;wielkopolskie
+Florencja;Zalewska;75;K;Rydultowy;slaskie
+Joanna;Zalewska;87;K;Sanok;podkarpackie
+Lara;Zalewska;35;K;Czarna Woda;pomorskie
+Lucja;Zalewska;74;K;Jastarnia;pomorskie
+Oliwia;Zalewska;40;K;Bialystok;podlaskie
+Alexander;Zalewski;18;M;Kargowa;lubuskie
+Bogumil;Zalewski;97;M;Glogow;dolnoslaskie
+Edward;Zalewski;41;M;Klodzko;dolnoslaskie
+Emil;Zalewski;52;M;Torun;kujawsko-pomorskie
+Gracjan;Zalewski;52;M;Blaszki;lodzkie
+Jozef;Zalewski;21;M;Milicz;dolnoslaskie
+Kajetan;Zalewski;28;M;Ciechocinek;kujawsko-pomorskie
+Konrad;Zalewski;50;M;Lubowidz;mazowieckie
+Patryk;Zalewski;81;M;Jedlina-Zdroj;dolnoslaskie
+Roman;Zalewski;95;M;Siechnice;dolnoslaskie
+Adriana;Zawadzka;61;K;Reda;pomorskie
+Amalia;Zawadzka;48;K;Sosnicowice;slaskie
+Anastazja;Zawadzka;97;K;Chmielnik;swietokrzyskie
+Antonina;Zawadzka;73;K;Nowe Skalmierzyce;wielkopolskie
+Klara;Zawadzka;64;K;Resko;zachodniopomorskie
+Konstancja;Zawadzka;41;K;Grabow nad Prosna;wielkopolskie
+Ola;Zawadzka;63;K;Nowa Deba;podkarpackie
+Olimpia;Zawadzka;50;K;Starachowice;swietokrzyskie
+Urszula;Zawadzka;80;K;Ustka;pomorskie
+Anastazy;Zawadzki;77;M;Lowicz;lodzkie
+Bronislaw;Zawadzki;53;M;Blazowa;podkarpackie
+Gniewomir;Zawadzki;40;M;Kety;malopolskie
+Jaroslaw;Zawadzki;87;M;Zagan;lubuskie
+Joachim;Zawadzki;59;M;Piaski;lubelskie
+Kornel;Zawadzki;23;M;Skaryszew;mazowieckie
+Leonardo;Zawadzki;38;M;Czchow;malopolskie
+Marcin;Zawadzki;83;M;Jelcz-Laskowice;dolnoslaskie
+Ada;Zielinska;49;K;Miedzychod;wielkopolskie
+Barbara;Zielinska;27;K;Lezajsk;podkarpackie
+Florencja;Zielinska;66;K;Nowa Slupia;swietokrzyskie
+Florentyna;Zielinska;57;K;Zagorz;podkarpackie
+Idalia;Zielinska;39;K;Gorowo Ilaweckie;warminsko-mazurskie
+Alek;Zielinski;60;M;Lasin;kujawsko-pomorskie
+Allan;Zielinski;63;M;Rejowiec Fabryczny;lubelskie
+Aureliusz;Zielinski;16;M;Chodecz;kujawsko-pomorskie
+Cyprian;Zielinski;15;M;Glowno;lodzkie
+Cyprian;Zielinski;32;M;Gorzow Wielkopolski;lubuskie
+Ludwik;Zielinski;94;M;Chelmno;kujawsko-pomorskie
+Maksymilian;Zielinski;51;M;Wyszkow;mazowieckie
+Miron;Zielinski;43;M;Tarnogrod;lubelskie
+Oskar;Zielinski;52;M;Naleczow;lubelskie
+Przemyslaw;Zielinski;35;M;Ostrow Lubelski;lubelskie
+Beata;Ziolkowska;72;K;Starachowice;swietokrzyskie
+Bogda;Ziolkowska;46;K;Wrzesnia;wielkopolskie
+Diana;Ziolkowska;97;K;Szczuczyn;podlaskie
+Gabriela;Ziolkowska;58;K;Konskie;swietokrzyskie
+Kamila;Ziolkowska;32;K;Kielce;swietokrzyskie
+Amir;Ziolkowski;85;M;Podkowa Lesna;mazowieckie
+Edward;Ziolkowski;48;M;Lubomierz;dolnoslaskie
+Gabriel;Ziolkowski;96;M;Siedlce;mazowieckie
+Maciej;Ziolkowski;84;M;Dzierzoniow;dolnoslaskie
